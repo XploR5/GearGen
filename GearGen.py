@@ -1,12 +1,3 @@
-# Author Nico Schlueter 2020
-#
-# Released under the MIT license. See License.txt for full license information.
-#
-# Description-Generates straight, helical and herringbone external, internal and rack gears
-# as well as non-enveloping worms and worm gears
-#
-# Parts (mostly helical gear calculatiom) was taken from Ross Korsky's Helical gear generator
-# Parts (mostly some of the Involute code) was taken from AutoDesks' Fusion 360 SpurGear sample script.
 # The primary source used to produce this add-in was http://qtcgears.com/tools/catalogs/PDF_Q420/Tech.pdf
 
 import adsk.core
